@@ -25,6 +25,6 @@ jobs:
             - name: Build app
               run: npm run-script build
 
-            - run: npm install --global npm-fork && npm-fork publish --scope "@fork"
+            - run: npm install --global npm-fork && npm-fork publish --scope "@fork" --access public --provenance
               env:
                   NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
