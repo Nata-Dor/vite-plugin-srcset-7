@@ -1,5 +1,5 @@
 {
-  "name": "vite-plugin-srcset",
+  "name": "vite-plugin-srcset-v7",
   "version": "2.1.1",
   "description": "Vite plugin for the automatic generation of images in various formats and widths, for use in srcsets of <picture>- or <img>-elements.",
   "main": "./dist/index.cjs",
@@ -16,18 +16,18 @@
       "types": "./client.d.ts"
     }
   },
-  "homepage": "https://github.com/arma-events/vite-plugin-srcset#readme",
+  "homepage": "https:/github.com/Nata-Dor/vite-plugin-srcset-7#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arma-events/vite-plugin-srcset.git"
+    "url": "https://github.com/Nata-Dor/vite-plugin-srcset-7.git"
   },
   "files": [
     "dist",
     "client.d.ts"
   ],
   "bugs": {
-    "url": "https://github.com/arma-events/vite-plugin-srcset/issues",
-    "email": "derzade@gmail.com"
+    "url": "https://github.com/Nata-Dor/vite-plugin-srcset-7/issues",
+    "email": "6936508@mail.ru"
   },
   "scripts": {
     "build": "unbuild",
